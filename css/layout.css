@@ -1,0 +1,130 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#head {
+	width: 960px;
+	height: 360px;
+	margin: 10px auto 0;
+}
+
+#head img {
+	width: 540px;
+	height: 360px;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#navigation {
+	width: 960px;
+	height: 40px;
+	margin: 0 auto;
+}
+
+#navigation ul {
+	width: 800px;
+	height: 40px;
+	margin: 0 auto;
+}
+
+#navigation li {
+	display: block;
+	float: left;
+	width: 158px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+}
+
+#navigation a {
+	display: block;
+}
+
+#content {
+	margin: 0 auto;
+	width: 960px;
+}
+
+#content h1 {
+	padding-top: 10px;
+	text-align: center;
+}
+
+#content p {
+	margin: 0 70px 0 70px;
+}
+
+#wrapimg {
+	height: 200px;
+	width: 200px;
+	position: relative;
+	overflow: hidden;
+	left: 360px;
+}
+
+#internalnav a {
+	display: block;
+	margin: 20px 0 10px 20px ;
+}
+
+#imagegallery li {
+	display: inline;
+}
+
+#imagegallery img {
+	width: 180px;
+	height: 140px;
+	border: 1px solid gainsboro;
+}
+
+#imagegallery {
+	width: 755px;
+	margin: 10px auto;
+}
+
+#holder {
+	widows: 400px;
+	height: 350px;
+	border: 1px solid lightgray;
+	display: block;
+	margin: 0 auto;
+}
+
+#content #description {
+	width: 200px;
+	margin: 30px auto;
+	text-align: center;
+}
+
+table {
+}
+
+td {
+	padding: .5em 3em;
+}
+
+dl {
+	overflow: hidden;
+}
+
+dt {
+	float: left;
+	margin-right: 1em;
+}
+
+dd {
+	float: left;
+	margin-right: 3em;
+}
+
+ label {
+	display: block;
+}
+
+
+
+fieldset {
+	border: 0;
+}
